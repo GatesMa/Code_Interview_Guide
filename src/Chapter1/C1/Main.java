@@ -3,6 +3,9 @@ package Chapter1.C1;
 import java.util.Stack;
 import java.util.Scanner;
 
+/**
+ * 设计一个有getMin功能的栈
+ */
 public class Main {
 
     private Stack<Integer> stack;
