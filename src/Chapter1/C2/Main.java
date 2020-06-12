@@ -9,7 +9,7 @@ import java.util.Stack;
  * Author:   Marlon
  * Email: gatesma@foxmail.com
  * Date:     2020/6/8 09:37
- * Description:
+ * Description: 两个栈实现队列
  */
 public class Main {
 

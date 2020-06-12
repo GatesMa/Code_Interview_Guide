@@ -9,7 +9,7 @@ import java.util.Stack;
  * Author:   Marlon
  * Email: gatesma@foxmail.com
  * Date:     2020/6/12 15:58
- * Description:
+ * Description: 用递归实现栈的反转
  */
 public class Main {
 
